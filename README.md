@@ -2,6 +2,10 @@
 
 Personal portfolio website showcasing my skills, projects, education, and background in AI/ML and software engineering.
 
+## 🚀 Live Portfolio
+
+https://portfolio-tau-eight-sea67kdnj8.vercel.app/
+
 ## 🚀 Tech Stack
 
 - React
@@ -52,5 +56,7 @@ CGPA: 3.75 / 4.00
 - LinkedIn: https://www.linkedin.com/in/md-sohrab-110515430/
 
 ---
+
+⭐ If you find this portfolio interesting, feel free to explore the projects.
 
 © 2026 Md Sohrab. All rights reserved.
